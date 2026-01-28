@@ -1,2 +1,2 @@
 # 01_Project
-calculations
+This is a practice repository to learn GitHub basics.
