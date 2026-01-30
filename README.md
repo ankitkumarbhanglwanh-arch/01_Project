@@ -1,2 +1,2 @@
 # 01_Project
-This is a practice repository to learn GitHub basics.
+This is a calculattion code, this give you solutions with performing arthmatic oprations.
