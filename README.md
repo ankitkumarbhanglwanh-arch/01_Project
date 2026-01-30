@@ -1,2 +1,2 @@
 # 01_Project
-This is a calculattion code, this give you solutions with performing arthmatic oprations.
+This is a calculation code, this gives you solutions with performing arthmatic oprations.
